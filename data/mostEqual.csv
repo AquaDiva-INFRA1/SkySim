@@ -1,0 +1,13 @@
+#next line: numberOfColumns,numberOfRows,dataType
+4,8,inMemoryDump
+#
+# dumped from a mainmemory point source 
+#
+1.0, 1.0, 1.0, 0.0
+1.0, 1.0, 1.0, 0.0
+1.0, 1.0, 1.0, 0.0
+1.0, 1.0, 1.0, 0.0
+1.0, 1.0, 1.0, 0.0
+1.0, 1.0, 1.0, 0.0
+0.5, 1.0, 1.0, 0.0
+0.0, 1.0, 1.0, 0.5
