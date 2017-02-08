@@ -42,11 +42,7 @@
     </repositories>
 
     <dependencies>
-        <dependency>
-            <groupId>ibm-db2-jdbc4</groupId>
-            <artifactId>ibm-db2-jdbc4</artifactId>
-            <version>4.12.55</version>
-        </dependency>
+       
         <dependency>
             <groupId>colt</groupId>
             <artifactId>colt</artifactId>
