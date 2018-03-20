@@ -55,10 +55,6 @@ public class CompareSkylineExperimentSynthetic {
 //	config.setD(16);
 //	config.setN(68040);
 //	config.setDataGenerator(new DataGeneratorUniformMarginals(new DataGeneratorFromCSVFile("data/coreltexture.csv")));
-//	config.setD(60);
-//	config.setN(275465);
-//	config.setDataGenerator(new DataGeneratorUniformMarginals(new DataGeneratorFromCSVFile("data/aerialtexture.csv")));
-//	config.setDataGenerator(new DataGeneratorUnitMarginalsByLinearScaling(new DataGeneratorFromCSVFile("data/aerialtexture.csv")));
         config.setNumTrials(5);
 
 //	config.setPresortStrategy(PresortStrategy.FullPresortSum);

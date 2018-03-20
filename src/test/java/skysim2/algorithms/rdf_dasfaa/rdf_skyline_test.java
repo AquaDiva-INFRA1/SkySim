@@ -33,11 +33,6 @@ public class rdf_skyline_test {
 
 	config.setDataGenerator(new DataGeneratorFromCSVFile("data/test_rdf.csv"));
 
-//	config.setD(60);
-//	config.setN(275465);
-//	config.setDataGenerator(new DataGeneratorUniformMarginals(new DataGeneratorFromCSVFile("data/aerialtexture.csv")));
-//	config.setDataGenerator(new DataGeneratorUnitMarginalsByLinearScaling(new DataGeneratorFromCSVFile("data/aerialtexture.csv")));
-
         config.setNumTrials(25);
 
 //	config.setPresortStrategy(PresortStrategy.FullPresortSum);

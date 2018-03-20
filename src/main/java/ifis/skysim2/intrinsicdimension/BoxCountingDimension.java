@@ -43,7 +43,6 @@ public class BoxCountingDimension {
 
 	int numbits = 5; // max 23 bits can be extracted from a float in our setting
 
-//	DataGenerator dg = new DataGeneratorUniformMarginals(new DataGeneratorFromCSVFile("data/aerialtexture.csv"));
 //	DataGenerator dg = new DataGeneratorIndependent();
 	DataGenerator dg = new DataGeneratorBKS01Correlated();
 	PointSource data = new PointSourceRAM(d, dg.generate(d, n));

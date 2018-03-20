@@ -43,7 +43,6 @@ public class EDBT {
 	config.setDataGenerator(new DataGeneratorBKS01Anticorrelated());
 
 //	config.setN(275465);
-//	config.setDataGenerator(new DataGeneratorUniformMarginals(new DataGeneratorFromCSVFile("data/aerialtexture.csv")));
 
 	config.setNumTrials(25);
 
